@@ -1,0 +1,8 @@
+body
+{ 
+  background-image: url('/public/birb.jpg'); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  color: white;
+}
